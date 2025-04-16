@@ -1,0 +1,12 @@
+invoice
+AdminServer 192.168.236.114 7001
+invoice_1 192.168.236.114 7002
+invoice_2 192.168.236.114 7003
+
+finance
+AdminServer 192.168.236.114 8001
+finance_1 192.168.236.114 8002
+finance_2 192.168.236.114 8003
+
+Tomcat 
+Jenkins 192.168.236.114 8080
